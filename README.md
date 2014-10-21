@@ -1,4 +1,4 @@
 slack-test
 ==========
 
-Testing slack
+Testing slack - oprava
